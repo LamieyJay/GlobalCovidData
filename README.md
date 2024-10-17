@@ -1,7 +1,7 @@
 ## Global CovidData
 
-In this project, we explore global covid data and present insights in a dashboard, showing the:
-1. percentage population infected
+In this project, we explore global covid data and present insights in a Tableau dashboard, showing the:
+1. percentage population infected by month and by country
 2. death count globally
 3. total cases, etc
 
